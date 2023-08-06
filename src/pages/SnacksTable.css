@@ -1,0 +1,34 @@
+.snacks-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.snacks-table th,
+.snacks-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.snacks-table th {
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+.search-box {
+  margin: 1rem;
+}
+.search-box input {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  outline: none;
+  border: 1px solid;
+}
+
+h2 {
+  margin: 0;
+}
+
+svg {
+  font-size: 1.5rem;
+}
